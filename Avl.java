@@ -1,5 +1,3 @@
-package projetoalpha;
-
 public class Avl {
     
     private Node root;
