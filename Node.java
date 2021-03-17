@@ -1,5 +1,3 @@
-package projetoalpha;
-
 public class Node {
 
     private int info;
